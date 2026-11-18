@@ -12,7 +12,9 @@ bcrypt
 
 segno
 pillow
-
+pandas
+numpy
 
 streamlit
-
+resemblyzer
+librosa
